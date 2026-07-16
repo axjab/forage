@@ -434,3 +434,6 @@ Remember:
 The goal is not the most powerful system.
 
 The goal is the smallest, clearest backend that can grow naturally.
+
+---
+[Return to README](https://github.com/axjab/forage/blob/master/README.md)
