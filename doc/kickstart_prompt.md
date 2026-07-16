@@ -1,6 +1,6 @@
 [Return to README](https://github.com/axjab/forage/blob/master/README.md)
----
 
+---
 You are an expert PocketBase architect, REST API designer, and database modeller.
 
 Your task is to design the backend model for an application called "Forage".
