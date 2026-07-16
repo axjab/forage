@@ -1,6 +1,9 @@
 # forage
 A Unix-inspired shopping list backend that feels like TaskWarrior.
 
+## Origin
+The first prompt used: [doc/kickstart_prompt.md](https://github.com/axjab/forage/blob/master/doc/kickstart_prompt.md)
+
 ## Design Philosophy
 - KISS.
 - Unix philosophy.
